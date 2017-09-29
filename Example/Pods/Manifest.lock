@@ -1,0 +1,16 @@
+PODS:
+  - AHFMModuleManager (0.1.0)
+
+DEPENDENCIES:
+  - AHFMModuleManager (from `../`)
+
+EXTERNAL SOURCES:
+  AHFMModuleManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AHFMModuleManager: 54812f81066120ac9f7ca2393ce1ee97d2666134
+
+PODFILE CHECKSUM: d9ca221aa65528fbea82c0a3d611a234ec67ac4f
+
+COCOAPODS: 1.3.0.beta.2
